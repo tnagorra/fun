@@ -1,0 +1,9 @@
+{
+    "name": "fun",
+    "version": "0.0.1",
+    "description": "Something fun",
+    "author": "tnagorra",
+    "devDependencies": {
+        "netlify-cli": "^2.64.0"
+    }
+}
